@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello, I'm Harshad Shiroya!
 
-<!--
-**sha369/sha369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate **Flutter Developer** | 💙 Dart Enthusiast | 📱 Mobile App Creator
 
-Here are some ideas to get you started:
+I love building **beautiful** and **efficient** cross-platform applications using **Flutter**. My goal is to create seamless user experiences with clean and maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 About Me  
+
+- 💻 I specialize in **Flutter & Dart**  
+- 📱 I develop **high-performance** mobile applications  
+- 🌍 Open-source contributor & tech writer  
+- 🏆 Love solving complex problems with simple solutions  
+
+---
+
+## 🛠️ Tech Stack  
+
+### **Languages & Frameworks:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+![GetX](https://img.shields.io/badge/GetX-6800F0?style=flat&logo=flutter&logoColor=white)  
+![Provider](https://img.shields.io/badge/Provider-0277BD?style=flat&logo=flutter&logoColor=white)  
+![BLoC](https://img.shields.io/badge/BLoC-009688?style=flat&logo=flutter&logoColor=white)  
+![API Integration](https://img.shields.io/badge/API_Integration-FF5733?style=flat&logo=api&logoColor=white)
+
+---
+
+💡 *Let's build something amazing together! 🚀*
